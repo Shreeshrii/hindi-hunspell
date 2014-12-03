@@ -2,9 +2,13 @@ hindi-hunspell
 ============
 Hindi wordlists, dictionary and affix files in hunspell format
 
-Hindi Dictionary Wordlists
+Hindi Dictionary 
 ---------------------
+dict-hi_IN.zip zip file has hunspell format dictionary and affix file for Hindi. This dictionary supports spellchecking of more than 350,000 words.
+
 hi-dict-words.txt 
+-----------------------
+This file along with hi-verbs.txt and hi-misc.txt is used as the source for building the Hindi Hunspell dictionary.
 
 hi-verbs
 -------
@@ -16,15 +20,11 @@ hi-misc.aff file has the affix rules for creating comparative adjective forms, i
 
 hi-angrezi
 ---------
-hi-angrezi.txt file has list of commonly used English words transliterated in devanagari script, which could be used in the dictionary.
-
-Currently these are NOT included in the Hindi dictionary 
+hi-angrezi.txt file has list of commonly used English words transliterated in devanagari script, which could be used in the dictionary. Currently these are NOT included in the Hindi dictionary .
 
 hi-visarga
 --------
-hi-visarga.txt file has list of sanskrit words with visarga at end as a superset of tatsama words which could be used in the dictionary.
-
-Currently these are NOT included in the Hindi dictionary 
+hi-visarga.txt file has list of sanskrit words with visarga at end as a superset of tatsama words which could be used in the dictionary. Currently these are NOT included in the Hindi dictionary.
 
 hi-dashes
 ---------
