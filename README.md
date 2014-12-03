@@ -16,15 +16,11 @@ hi-misc.aff file has the affix rules for creating comparative adjective forms, i
 
 hi-angrezi
 ---------
-hi-angrezi.txt file has list of commonly used English words transliterated in devanagari script, which could be used in the dictionary.
-
-Currently these are NOT included in the Hindi dictionary 
+hi-angrezi.txt file has list of commonly used English words transliterated in devanagari script, which could be used in the dictionary. Currently these are NOT included in the Hindi dictionary .
 
 hi-visarga
 --------
-hi-visarga.txt file has list of sanskrit words with visarga at end as a superset of tatsama words which could be used in the dictionary.
-
-Currently these are NOT included in the Hindi dictionary 
+hi-visarga.txt file has list of sanskrit words with visarga at end as a superset of tatsama words which could be used in the dictionary. Currently these are NOT included in the Hindi dictionary.
 
 hi-dashes
 ---------
