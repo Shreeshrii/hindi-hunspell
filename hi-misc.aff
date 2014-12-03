@@ -1,5 +1,6 @@
+FLAG num
 
-# eg: sundar -  
+# eg: सुन्दर to सुन्दरतर, सुन्दरतम, सुन्दरता  
 SFX 4 Y 3
 SFX 4 0 तर .
 SFX 4 0 तम .
