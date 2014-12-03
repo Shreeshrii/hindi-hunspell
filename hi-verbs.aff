@@ -1,0 +1,61 @@
+
+# verb forms for aa-kaaranta kriyaa-pada (exception कराके)
+SFX	1	Y	16
+SFX	1	0	ई	.
+SFX	1	0	कर	[^करा]
+SFX	1	0	ना	.
+SFX	1	0	ने	.
+SFX	1	0	ता	.
+SFX	1	0	ती	.
+SFX	1	0	ते	.
+SFX	1	0	एगा	.
+SFX	1	0	एगी	.
+SFX	1	0	एंगे	.
+SFX	1	0	ऊंगा	.
+SFX	1	0	ऊंगी	.
+SFX	1	0	एँगे	.
+SFX	1	0	ऊँगा	.
+SFX	1	0	ऊँगी	.
+SFX	1	0	इए	.
+
+# verb forms for a-kaaranta kriyaa-pada (exception करके)
+SFX	2	Y	22
+SFX	2	0	कर	[^कर]
+SFX	2	0	ना	.
+SFX	2	0	ने	.
+SFX	2	0	ता	.
+SFX	2	0	ती	.
+SFX	2	0	ते	.
+SFX	2	0	े	.
+SFX	2	0	ा	.
+SFX	2	0	ो	.
+SFX	2	0	ेगा	.
+SFX	2	0	ेगी	.
+SFX	2	0	ेंगे	.
+SFX	2	0	ूंगा	.
+SFX	2	0	ूंगी	.
+SFX	2	0	ेँगे	.
+SFX	2	0	ूँगा	.
+SFX	2	0	ूँगी	.
+SFX	2	0	िए	.
+SFX	2	0	िएगा	.
+SFX	2	ी	िए	ी
+SFX	2	ी	िला	ी
+SFX	2	ी	िया	ी
+
+# verb forms for ii-kaaranta and o-kaaraanta kriyaa-pada
+SFX	3	Y	14
+SFX	3	0	कर	.
+SFX	3	0	ना	.
+SFX	3	0	ने	.
+SFX	3	0	ता	.
+SFX	3	0	ती	.
+SFX	3	0	ते	.
+SFX	3	ी	िएगा	ी
+SFX	3	ी	िएगी	ी
+SFX	3	ी	िएंगे	ी
+SFX	3	ी	िऊंगा	ी
+SFX	3	ी	िऊंगी	ी
+SFX	3	ी	िएँगे	ी
+SFX	3	ी	िऊँगा	ी
+SFX	3	ी	िऊँगी	ी
