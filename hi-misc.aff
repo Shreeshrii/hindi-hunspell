@@ -1,128 +1,128 @@
 
 # eg: sundar -  
-SFX	4	Y	3
-SFX	4	0	तर	.
-SFX	4	0	तम	.
-SFX	4	0	ता	[^अधुना]
+SFX 4 Y 3
+SFX 4 0 तर .
+SFX 4 0 तम .
+SFX 4 0 ता [^अधुना]
 
 # ईकारन्त nouns
-SFX	5	Y	1
-SFX	5	ी	ियोँ	ी
+SFX 5 Y 1
+SFX 5 ी ियोँ ी
 
-#as per http://hi.wikipedia.org/wiki/मानक_हिंदी_वर्तनी#2.12_.वाला
-SFX	94	Y	2
-SFX	94	0	वाला	.
-SFX	94	0	वाले	.
+# as per http://hi.wikipedia.org/wiki/मानक_हिंदी_वर्तनी#2.12_.वाला
+SFX 94 Y 2
+SFX 94 0 वाला .
+SFX 94 0 वाले .
 
-SFX	95	Y	2
-SFX	95	0	वाली	.
-SFX	95	0	वालियाँ	.
+SFX 95 Y 2
+SFX 95 0 वाली .
+SFX 95 0 वालियाँ .
 
 # kis - kitne, utne, itne, jitne
-SFX	96	Y	1
-SFX	96	स	तने	स
+SFX 96 Y 1
+SFX 96 स तने स
 
-#as per http://hi.wikipedia.org/wiki/मानक_हिंदी_वर्तनी#2.2
-SFX	97	Y	1
-SFX	97	0	ने	.
+# as per http://hi.wikipedia.org/wiki/मानक_हिंदी_वर्तनी#2.2
+SFX 97 Y 1
+SFX 97 0 ने .
 
-as per http://hi.wikipedia.org/wiki/मानक_हिंदी_वर्तनी#2.2
-SFX	98	Y	7
-SFX	98	0	से	.
-SFX	98	0	को	.
-SFX	98	0	पर	.
-SFX	98	0	पे	.
-SFX	98	0	के	[^हम]
-SFX	98	0	में	.
-SFX	98	0	का	[^हम]
+# as per http://hi.wikipedia.org/wiki/मानक_हिंदी_वर्तनी#2.2
+SFX 98 Y 7
+SFX 98 0 से .
+SFX 98 0 को .
+SFX 98 0 पर .
+SFX 98 0 पे .
+SFX 98 0 के [^हम]
+SFX 98 0 में .
+SFX 98 0 का [^हम]
 
 # as per http://hi.wikipedia.org/wiki/मानक_हिंदी_वर्तनी#2.4.2
-SFX	99	Y	4
-SFX	99	0	-सा	.
-SFX	99	0	-से	.
-SFX	99	0	-जैसा	.
-SFX	99	0	-जैसे	.
+SFX 99 Y 4
+SFX 99 0 -सा .
+SFX 99 0 -से .
+SFX 99 0 -जैसा .
+SFX 99 0 -जैसे .
 
-#following rules are used only for example forms
+# following rules are used only for example forms
 
-SFX	101	Y	20
-SFX	101	0	नगर	.
-SFX	101	0	गंज	.
-SFX	101	0	गिरि	.
-SFX	101	0	ताल	.
-SFX	101	0	पुर	.
-SFX	101	0	पुरी	.
-SFX	101	0	क्षेत्र	.
-SFX	101	0	झील	.
-SFX	101	0	कुंज	.
-SFX	101	0	मार्ग	.
-SFX	101	0	खेत	.
-SFX	101	0	पुरम	.
-SFX	101	0	टाउन	.
-SFX	101	0	पुरा	.
-SFX	101	0	वाड़ी	.
-SFX	101	0	घाटी	.
-SFX	101	0	घाट	.
-SFX	101	0	खंड	.
-SFX	101	0	गढ़	.
-SFX	101	0	पहाड़ी	.
+SFX 101 Y 20
+SFX 101 0 नगर .
+SFX 101 0 गंज .
+SFX 101 0 गिरि .
+SFX 101 0 ताल .
+SFX 101 0 पुर .
+SFX 101 0 पुरी .
+SFX 101 0 क्षेत्र .
+SFX 101 0 झील .
+SFX 101 0 कुंज .
+SFX 101 0 मार्ग .
+SFX 101 0 खेत .
+SFX 101 0 पुरम .
+SFX 101 0 टाउन .
+SFX 101 0 पुरा .
+SFX 101 0 वाड़ी .
+SFX 101 0 घाटी .
+SFX 101 0 घाट .
+SFX 101 0 खंड .
+SFX 101 0 गढ़ .
+SFX 101 0 पहाड़ी .
 
-SFX	102	Y	28
-SFX	102	0	किशोर	.
-SFX	102	0	कुमार	.
-SFX	102	0	जीत	.
-SFX	102	0	वीर	.
-SFX	102	0	नाथ	.
-SFX	102	0	दास	.
-SFX	102	0	प्रीत	.
-SFX	102	0	सिंह	.
-SFX	102	0	गुप्त	.
-SFX	102	0	कान्त	.
-SFX	102	0	राज	.
-SFX	102	0	रंजन	.
-SFX	102	0	मोहन	.
-SFX	102	0	रतन	.
-SFX	102	0	प्रताप	.
-SFX	102	0	पाल	.
-SFX	102	0	चन्द्र	.
-SFX	102	0	किरण	.
-SFX	102	0	जी	.
-SFX	102	0	लाल	.
-SFX	102	0	नन्द	.
-SFX	102	0	दीप	.
-SFX	102	0	नारायण	.
-SFX	102	0	राम	.
-SFX	102	0	शंकर	.
-SFX	102	0	दयाल	.
-SFX	102	0	दीन	.
-SFX	102	0	विजय	.
+SFX 102 Y 28
+SFX 102 0 किशोर .
+SFX 102 0 कुमार .
+SFX 102 0 जीत .
+SFX 102 0 वीर .
+SFX 102 0 नाथ .
+SFX 102 0 दास .
+SFX 102 0 प्रीत .
+SFX 102 0 सिंह .
+SFX 102 0 गुप्त .
+SFX 102 0 कान्त .
+SFX 102 0 राज .
+SFX 102 0 रंजन .
+SFX 102 0 मोहन .
+SFX 102 0 रतन .
+SFX 102 0 प्रताप .
+SFX 102 0 पाल .
+SFX 102 0 चन्द्र .
+SFX 102 0 किरण .
+SFX 102 0 जी .
+SFX 102 0 लाल .
+SFX 102 0 नन्द .
+SFX 102 0 दीप .
+SFX 102 0 नारायण .
+SFX 102 0 राम .
+SFX 102 0 शंकर .
+SFX 102 0 दयाल .
+SFX 102 0 दीन .
+SFX 102 0 विजय .
 
-SFX	103	Y	8
-SFX	103	0	किशोरी	.
-SFX	103	0	कुमारी	.
-SFX	103	0	दासी	.
-SFX	103	0	कौर	.
-SFX	103	0	कान्ता	.
-SFX	103	0	देवी	.
-SFX	103	0	रानी	.
-SFX	103	0	बाला	.
+SFX 103 Y 8
+SFX 103 0 किशोरी .
+SFX 103 0 कुमारी .
+SFX 103 0 दासी .
+SFX 103 0 कौर .
+SFX 103 0 कान्ता .
+SFX 103 0 देवी .
+SFX 103 0 रानी .
+SFX 103 0 बाला .
 
 
 ##PREFIXES
-PFX	201	Y	4
-PFX	201	अ	मुख्या	अ
-PFX	201	अ	प्रधाना	अ
-PFX	201	अ	महा	अ
-PFX	201	अ	उपा	अ
+PFX 201 Y 4
+PFX 201 अ मुख्या अ
+PFX 201 अ प्रधाना अ
+PFX 201 अ महा अ
+PFX 201 अ उपा अ
 
-PFX	202	Y	4
-PFX	202	0	मुख्य	.
-PFX	202	0	प्रधान	.
-PFX	202	0	महा	.
-PFX	202	0	उप	.
+PFX 202 Y 4
+PFX 202 0 मुख्य .
+PFX 202 0 प्रधान .
+PFX 202 0 महा .
+PFX 202 0 उप .
 
-PFX	203	Y	4
-PFX	203	आ	मुख्या	आ
-PFX	203	आ	प्रधाना	आ
-PFX	203	आ	महा	आ
-PFX	203	आ	उपा	आ
+PFX 203 Y 4
+PFX 203 आ मुख्या आ
+PFX 203 आ प्रधाना आ
+PFX 203 आ महा आ
+PFX 203 आ उपा आ

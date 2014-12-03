@@ -3,65 +3,65 @@
 # Released under GPL
 # Files available from http://sanskritdocuments.org/hindi/hunspell 
 
-SET	UTF-8
-LANG	hi_IN
+SET UTF-8
+LANG hi_IN
 
-TRY	्ायतिरमवेनसकषुपअहदलशथधीणजःचोगभटूृबडखंैङञघछठआफौउझइईएऊढऋऔओऐॄॢॐऌॠ
-KEY	इई|उऊ|ऑऒओऔॵ|ऄऍऎएऐ|िी|ुू|ॅॆेै|ॉॊोौॏ|डङ|धघ|मभय|बव|ंँ
+TRY ्ायतिरमवेनसकषुपअहदलशथधीणजःचोगभटूृबडखंैङञघछठआफौउझइईएऊढऋऔओऐॄॢॐऌॠ
+KEY इई|उऊ|ऑऒओऔॵ|ऄऍऎएऐ|िी|ुू|ॅॆेै|ॉॊोौॏ|डङ|धघ|मभय|बव|ंँ
 
-MAXNGRAMSUGS	10
-MAXDIFF	5
+MAXNGRAMSUGS 10
+MAXDIFF 5
 
-ICONV	17
-ICONV	क़	क़
-ICONV	ख़	ख़
-ICONV	ग़	ग़
-ICONV	ज़	ज़
-ICONV	ड़	ड़
-ICONV	ढ़	ढ़
-ICONV	फ़	फ़
-ICONV	य़	य़
-ICONV	ऴ	ऴ
-ICONV	ऩ	ऩ
-ICONV	ऱ	ऱ
-ICONV	ॅं	ँ
-ICONV	ाॅ	ॉ
-ICONV	अॉ	ऑ
-ICONV	अॅ	ॲ
-ICONV	्‍	्
-ICONV	्‌	्
+ICONV 17
+ICONV क़ क़
+ICONV ख़ ख़
+ICONV ग़ ग़
+ICONV ज़ ज़
+ICONV ड़ ड़
+ICONV ढ़ ढ़
+ICONV फ़ फ़
+ICONV य़ य़
+ICONV ऴ ऴ
+ICONV ऩ ऩ
+ICONV ऱ ऱ
+ICONV ॅं ँ
+ICONV ाॅ ॉ
+ICONV अॉ ऑ
+ICONV अॅ ॲ
+ICONV ्‍ ्
+ICONV ्‌ ्
 
-REP	22
-REP	र्	र्‍
-REP	र्‍	र्	
-REP	स	श
-REP	श	स
-REP	म्	ं
-REP	ं	म्
-REP	श	ष
-REP	ष	श
-REP	ज़	ज
-REP	फ़	फ
-REP	क़	क
-REP	ख़	ख
-REP	ग़	ग
-REP	ड़	ड	
-REP	ढ़	ढ
-REP	ज	ज़
-REP	फ	फ़
-REP	क	क़
-REP	ख	ख़
-REP	ग	ग़
-REP	ड	ड़
-REP	ढ	ढ़
+REP 22
+REP र् र्‍
+REP र्‍ र् 
+REP स श
+REP श स
+REP म् ं
+REP ं म्
+REP श ष
+REP ष श
+REP ज़ ज
+REP फ़ फ
+REP क़ क
+REP ख़ ख
+REP ग़ ग
+REP ड़ ड 
+REP ढ़ ढ
+REP ज ज़
+REP फ फ़
+REP क क़
+REP ख ख़
+REP ग ग़
+REP ड ड़
+REP ढ ढ़
 
-MAP	1
-MAP	लळ
+MAP 1
+MAP लळ
 
-BREAK	4
-BREAK	_
-BREAK	-
-BREAK	ˆ-
-BREAK	-$
+BREAK 4
+BREAK _
+BREAK -
+BREAK ˆ-
+BREAK -$
 
-FLAG	num
+FLAG num
