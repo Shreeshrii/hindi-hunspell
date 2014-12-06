@@ -1,7 +1,7 @@
 FLAG num
 
-# verb forms for aa-kaaranta kriyaa-pada (exception कराके)
-SFX 1 Y 16
+# verb forms for aa-kaaranta kriyaa-pada eg. बुलवा, गिरवा, खा, गा, तिलमिला (exception कराके)
+SFX 1 Y 18
 SFX 1 0 ई .
 SFX 1 0 कर [^करा]
 SFX 1 0 ना .
@@ -9,54 +9,118 @@ SFX 1 0 ने .
 SFX 1 0 ता .
 SFX 1 0 ती .
 SFX 1 0 ते .
+SFX 1 0 ए .
 SFX 1 0 एगा .
 SFX 1 0 एगी .
-SFX 1 0 एंगे .
-SFX 1 0 ऊंगा .
-SFX 1 0 ऊंगी .
 SFX 1 0 एँगे .
+SFX 1 0 ऊँ .
 SFX 1 0 ऊँगा .
 SFX 1 0 ऊँगी .
 SFX 1 0 इए .
+SFX 1 0 ओ .
+SFX 1 0 ओगे .
+SFX 1 0 ओगी .
 
-# verb forms for a-kaaranta kriyaa-pada (exception करके)
-SFX 2 Y 22
+# verb forms for a-kaaranta kriyaa-pada eg. निकल, ड़ूब (exception करके)
+SFX 2 Y 20
 SFX 2 0 कर [^कर]
 SFX 2 0 ना .
 SFX 2 0 ने .
 SFX 2 0 ता .
 SFX 2 0 ती .
 SFX 2 0 ते .
-SFX 2 0 े .
 SFX 2 0 ा .
-SFX 2 0 ो .
+SFX 2 0 े .
 SFX 2 0 ेगा .
 SFX 2 0 ेगी .
-SFX 2 0 ेंगे .
-SFX 2 0 ूंगा .
-SFX 2 0 ूंगी .
 SFX 2 0 ेँगे .
+SFX 2 0 ो .
+SFX 2 0 ोगे .
+SFX 2 0 ोगी .
+SFX 2 0 ूँ .
 SFX 2 0 ूँगा .
 SFX 2 0 ूँगी .
 SFX 2 0 िए .
 SFX 2 0 िएगा .
-SFX 2 ी िए ी
-SFX 2 ी िला ी
-SFX 2 ी िया ी
+SFX 2 0 िएगी .
 
-# verb forms for ii-kaaranta and o-kaaraanta kriyaa-pada
-SFX 3 Y 14
+# verb forms for ii-kaaranta kriyaa-pada eg  पी, जी, सी
+SFX 3 Y 17
 SFX 3 0 कर .
 SFX 3 0 ना .
 SFX 3 0 ने .
 SFX 3 0 ता .
 SFX 3 0 ती .
 SFX 3 0 ते .
+SFX 3 ी िए ी
 SFX 3 ी िएगा ी
 SFX 3 ी िएगी ी
-SFX 3 ी िएंगे ी
-SFX 3 ी िऊंगा ी
-SFX 3 ी िऊंगी ी
 SFX 3 ी िएँगे ी
+SFX 3 ी िऊँ ी
 SFX 3 ी िऊँगा ी
 SFX 3 ी िऊँगी ी
+SFX 3 ी िआ ी
+SFX 3 ी िए ी
+SFX 3 ी िला ी
+SFX 3 ी िलवा ी
+
+# verb forms for o-kaaraanta kriyaa-pada eg. सो, खो, धो, ढो, हो, बो, भिगो,
+SFX 4 Y 11
+SFX 4 0 कर .
+SFX 4 0 ना .
+SFX 4 0 ने .
+SFX 4 0 ता .
+SFX 4 0 ती .
+SFX 4 0 ते .
+SFX 4 0 ए .
+SFX 4 0 एगा .
+SFX 4 0 एगी .
+SFX 4 0 एँगे .
+SFX 4 0 इए .
+SFX 4 0 इएगा .
+SFX 4 0 इएगी .
+SFX 4 0 इएँगी .
+SFX 4 0 ऊँ .
+SFX 4 0 ऊँगा .
+SFX 4 0 ऊँगी .
+SFX 4 0 या [^हो]
+
+# verb forms for e-kaaranta  kriyaa-pada eg. ले, दे, खे?
+SFX 5 Y 11
+SFX 5 0 कर .
+SFX 5 0 ना .
+SFX 5 0 ने .
+SFX 5 0 ता .
+SFX 5 0 ती .
+SFX 5 0 ते .
+SFX 5 े ीजिए .
+SFX 5 0 गा .
+SFX 5 0 गी .
+SFX 5 0 ँगे .
+SFX 5 0 ऊँ .
+SFX 5 0 ऊँगा .
+SFX 5 0 ऊँगी .
+
+# irregular past participles - जाना, करना, मरना, होना, देना, लेना
+SFX 6 Y 20
+SFX 6 ेना िआ ेना
+SFX 6 ेना िए ेना
+SFX 6 ेना ी ेना
+SFX 6 ेना ीँ ेना
+SFX 6 ोना ुआ होना
+SFX 6 ोना ुए होना
+SFX 6 ोना ुई होना
+SFX 6 ोना ुईँ होना
+SFX 6 जाना गया जाना
+SFX 6 जाना गए जाना
+SFX 6 जाना गई जाना
+SFX 6 जाना गईँ जाना
+SFX 6 रना िआ करना
+SFX 6 रना िए करना
+SFX 6 रना ी करना
+SFX 6 रना ीँ करना
+SFX 6 रना ुआ मरना
+SFX 6 रना ुए मरना
+SFX 6 रना ुई मरना
+SFX 6 रना ुईँ मरना
+
