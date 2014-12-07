@@ -22,18 +22,25 @@ SFX 1 0 ओगे .
 SFX 1 0 ओगी .
 
 # verb forms for a-kaaranta kriyaa-pada eg. निकल, ड़ूब (exception करके)
-SFX 2 Y 20
+SFX 2 Y 27
 SFX 2 0 कर [^कर]
 SFX 2 0 ना .
 SFX 2 0 ने .
 SFX 2 0 ता .
 SFX 2 0 ती .
 SFX 2 0 ते .
+SFX 2 0 तीँ .
 SFX 2 0 ा .
 SFX 2 0 े .
+SFX 2 0 ी .
+SFX 2 0 ीँ .
 SFX 2 0 ेगा .
 SFX 2 0 ेगी .
+SFX 2 0 ेँ .
 SFX 2 0 ेँगे .
+SFX 2 0 ेँगेँ .
+SFX 2 0 ेँगी .
+SFX 2 0 ेँगीँ .
 SFX 2 0 ो .
 SFX 2 0 ोगे .
 SFX 2 0 ोगी .
