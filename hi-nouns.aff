@@ -1,0 +1,52 @@
+FLAG num
+
+# hi-noun9
+SFX 12 Y 2
+SFX 12 ा े ा
+SFX 12 ा ोँ ा
+
+# hi-noun8
+SFX 13 Y 2
+SFX 13 0 एँ ा
+SFX 13 0 ओँ ा
+
+# hi-noun7
+SFX 14 Y 1
+SFX 14 0 ओँ ा
+
+# hi-noun6
+SFX 15 Y 2
+SFX 15 0 ेँ .
+SFX 15 0 ोँ .
+
+# hi-noun5
+SFX 16 Y 1
+SFX 16 0 ोँ .
+
+# hi-noun4
+SFX 17 Y 2
+SFX 17 ी ियाँ ी
+SFX 17 ी िओँ ी
+
+# hi-noun4a
+SFX 18 Y 3
+SFX 18 ी िओँ ी
+SFX 18 ई इओँ ई
+SFX 18 ई इयाँ ई
+
+# hi-noun3
+SFX 19 Y 2
+SFX 19 ि ियाँ ि
+SFX 19 ि िओँ ि
+
+# hi-noun3a
+SFX 20 Y 1
+SFX 20 ि िओँ ि
+
+# hi-noun2
+SFX 21 Y 3
+SFX 21 ू ुओँ ू
+SFX 21 ु ुओँ ु
+SFX 21 0 ओँ ौ
+
+# hi-noun1
