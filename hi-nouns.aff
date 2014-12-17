@@ -1,52 +1,58 @@
 FLAG num
 
-# hi-noun9
-SFX 12 Y 2
-SFX 12 ा े ा
-SFX 12 ा ोँ ा
-
-# hi-noun8
+# hi-noun8 eg. आत्मा/13
 SFX 13 Y 2
 SFX 13 0 एँ ा
 SFX 13 0 ओँ ा
 
-# hi-noun7
+# hi-noun8a eg. गुड़िया/22
+SFX 22 Y 2
+SFX 22 0 ँ ा
+SFX 22 0 ओँ ा
+
+# hi-noun8b eg. अँगरखा/12
+SFX 12 Y 2
+SFX 12 ा े ा
+SFX 12 ा ोँ ा
+
+# hi-noun8c eg. चाचा/14
 SFX 14 Y 1
 SFX 14 0 ओँ ा
 
-# hi-noun6
+# hi-noun6 eg. अटकल/15
 SFX 15 Y 2
 SFX 15 0 ेँ .
 SFX 15 0 ोँ .
 
-# hi-noun5
+# hi-noun5 eg. अंग/16, अँगरेज/16
 SFX 16 Y 1
 SFX 16 0 ोँ .
 
-# hi-noun4
+# hi-noun4 eg. कली/17
 SFX 17 Y 2
 SFX 17 ी ियाँ ी
 SFX 17 ी िओँ ी
 
-# hi-noun4a
+# hi-noun4a eg. भाई/18, धोबी/18
 SFX 18 Y 3
 SFX 18 ी िओँ ी
 SFX 18 ई इओँ ई
 SFX 18 ई इयाँ ई
 
-# hi-noun3
+# hi-noun3 eg. जाति/19
 SFX 19 Y 2
 SFX 19 ि ियाँ ि
 SFX 19 ि िओँ ि
 
-# hi-noun3a
+# hi-noun3a eg. मुनि/20
 SFX 20 Y 1
 SFX 20 ि िओँ ि
 
-# hi-noun2
+# hi-noun2 eg. बहू/21, वस्तु/21, गौ/21
 SFX 21 Y 3
 SFX 21 ू ुओँ ू
 SFX 21 ु ुओँ ु
 SFX 21 0 ओँ ौ
 
+# hi-noun8a eg. गुड़िया/22
 # hi-noun1
