@@ -20,3 +20,5 @@ LC_ALL=hi_IN.utf8   uniq tmp6 >tmp7
 cat head.dic tmp7 > hi_IN.dic
 ./unmunchit.sh hi_IN
 rm tmp*
+cp hi_IN.dic /mnt/c/Users/User/AppData/Roaming/Notepad++/plugins/config/Hunspell
+cp hi_IN.aff /mnt/c/Users/User/AppData/Roaming/Notepad++/plugins/config/Hunspell
