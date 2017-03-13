@@ -7,12 +7,13 @@ MAXNGRAMSUGS	10
 MAXDIFF	5
 
 # convert internally for checking spelling
-ICONV 5
+ICONV 6
 ICONV ां ाँ
 ICONV ीं ीँ
 ICONV ों ोँ
 ICONV ौं ौँ
 ICONV ूं ूँ
+ICONV । .
 
 # offer replacement as suggestion
 REP	98
@@ -114,13 +115,16 @@ REP	न्त	ंत
 REP	न्थ	ंथ
 REP	न्द	ंद
 REP	न्ध	ंध
+
 MAP	1
 MAP	लळ
+
 BREAK	4
 BREAK	_
 BREAK	-
 BREAK	ˆ-
 BREAK	-$
+
 WORDCHARS	०१२३४५६७८९।-.,॥‰§%°0123456789–'
 
 #
