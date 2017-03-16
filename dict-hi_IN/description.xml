@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <description xmlns="http://openoffice.org/extensions/description/2006" xmlns:d="http://openoffice.org/extensions/description/2006"  xmlns:xlink="http://www.w3.org/1999/xlink">
-    <version value="2.0" />
-    <identifier value="hi_IN" />
+    <registration>
+        <simple-license accept-by="admin" suppress-on-update="false" >
+            <license-text xlink:href="LICENSES-en.txt" lang="en" />
+            <license-text xlink:href="LICENCES-hi.txt" lang="hi" />
+        </simple-license>
+    </registration>
+    <version value="SPELLCHECKERVERSION" />
+    <identifier value="Hindi_spellchecker.from.shreeshrii" />
     <display-name>
-        <name lang="hi">hi_IN Hindi Language spelling dictionary</name>
+        <name lang="en">hi_IN Hindi Hunspell dictionary</name>
+        <name lang="hi">हिंदी वर्तनी जांचक</name>
     </display-name>
     <platform value="all" />
     <dependencies>
         <OpenOffice.org-minimal-version value="3.0" d:name="OpenOffice.org 3.0" />
     </dependencies>
 </description>
-

@@ -336,7 +336,7 @@ SFX	30	ा	ी	ा
 #	numbers
 SFX	31	Y	3
 SFX	31	0	वाँ	.
-SFX	31	0	वीं	.
+SFX	31	0	वीँ	.
 SFX	31	0	वेँ	.
 
 # hi-noun8b eg. अँगरखा/32
@@ -445,11 +445,11 @@ SFX	95	Y	2
 SFX	95	0	वाली	.
 SFX	95	0	वालियाँ	.
 
-# kis - is, us, jis - various forms
+# kis - is, us, jis - various forms, ignore for सब
 SFX	96	Y	13
 SFX	96	स	तने	स
-SFX	96	0	े	[^सब]
-SFX	96	0	ी	[^सब]
+SFX	96	0	े	[^ब]
+SFX	96	0	ी	[^ब]
 SFX	96	0	ने	.
 SFX	96	0	से	.
 SFX	96	0	पर	.
@@ -459,7 +459,7 @@ SFX	96	0	के	.
 SFX	96	0	की	.
 SFX	96	0	को	.
 SFX	96	0	में	.
-SFX	96	0	लिए	[^सब]
+SFX	96	0	लिए	[^ब]
 
 # as per http://hi.wikipedia.org/wiki/मानक_हिंदी_वर्तनी
 
