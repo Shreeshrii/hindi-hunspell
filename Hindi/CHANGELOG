@@ -1,2 +1,18 @@
-Relaese 2.0.0
+Initial Release 2.0.0
 Holi 2017
+* Build aff file with grammar rules
+* Build dic file with combined verbs, nouns, adjectives, adverbs, numbers etc
+* Use decomposed form of nukta letters
+
+Version 2.0.0.2
+Thu Mar 16, 2017
+=============
+* Add to aff file - ICONV । . - Ravi Ratlami
+* Add to aff file - ICONV ॥ . - V S Rawat
+* Use combined form of nukta letters - Hariram Pansari
+* Updates to aff and dic files
+* Add hi-CLDR.dic
+* Add hi-angrezi.dic
+* Add tools directory and update build process
+* Provide Open Office version of dictionary - hi_spellchecker_OOo3.oxt
+

@@ -10,6 +10,8 @@ hi-num.dic  blank.dic \
 hi-prefix.dic blank.dic \
 hi-verbs.dic  blank.dic \
 hi-nouns.dic  blank.dic \
+hi-CLDR.dic  blank.dic \
+hi-angrezi.dic  blank.dic \
  > tmp5 
 LC_ALL=hi_IN.utf8   sort tmp5 > tmp6
 LC_ALL=hi_IN.utf8   uniq tmp6 >tmp7
@@ -18,5 +20,5 @@ cat head.dic tmp7 > hi_IN.dic
 rm tmp*
 cp hi_IN.dic /mnt/c/Users/User/AppData/Roaming/Notepad++/plugins/config/Hunspell
 cp hi_IN.aff /mnt/c/Users/User/AppData/Roaming/Notepad++/plugins/config/Hunspell
-cp hi_IN.dic ../dict-hi_IN
-cp hi_IN.aff  ../dict-hi_IN
+#cp hi_IN.dic ../dict-hi_IN
+#cp hi_IN.aff  ../dict-hi_IN

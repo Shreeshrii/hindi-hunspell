@@ -7,10 +7,10 @@
         </simple-license>
     </registration>
     <version value="SPELLCHECKERVERSION" />
-    <identifier value="Hindi_spellchecker.from.shreeshrii" />
+    <identifier value="Hindi_spellchecker.from.shreeshrii.SPELLCHECKERDATE" />
     <display-name>
-        <name lang="en">hi_IN Hindi Hunspell dictionary</name>
-        <name lang="hi">हिंदी वर्तनी जांचक</name>
+        <name lang="en">hi_IN Hindi Hunspell dictionary SPELLCHECKERVERSION</name>
+        <name lang="hi">हिंदी वर्तनी जांचक SPELLCHECKERVERSION</name>
     </display-name>
     <platform value="all" />
     <dependencies>
