@@ -1,3 +1,4 @@
+﻿
 Initial Release 2.0.0
 Holi 2017
 * Build aff file with grammar rules
@@ -7,12 +8,21 @@ Holi 2017
 Version 2.0.0.2
 Thu Mar 16, 2017
 =============
-* Add to aff file - ICONV । . - Ravi Ratlami
-* Add to aff file - ICONV ॥ . - V S Rawat
+* Add to aff file - ICONV PurnaViram rule - Ravi Ratlami
+* Add to aff file - ICONV Double Danda rule - V S Rawat
 * Use combined form of nukta letters - Hariram Pansari
 * Updates to aff and dic files
 * Add hi-CLDR.dic
 * Add hi-angrezi.dic
-* Add tools directory and update build process
+* Add tools directory and bash scripts
+* Add unmunched versions of dictionary files
+* Update build process
 * Provide Open Office version of dictionary - hi_spellchecker_OOo3.oxt
+   This is the same as dict-hi_IN.zip .
 
+Version 2.0.0.3
+Thu Mar 16, 2017
+=============
+* Update build process
+* Add version number to hi_IN.aff
+* Delete dict-hi_IN directory

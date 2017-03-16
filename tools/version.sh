@@ -3,7 +3,6 @@
 BLOB=($(git show --pretty='format:%h %at' | head -n 1))
 if [ $BLOB ]; then
   REV_DATE=$( git log -1 --format="%ad")
-  REV_YEAR=$(date -r ${BLOB[1]} +%Y)
   BLOB=${BLOB[0]}
 fi
 TAGS=$(git describe $BLOB)
