@@ -26,3 +26,14 @@ Thu Mar 16, 2017
 * Update build process
 * Add version number to hi_IN.aff
 * Delete dict-hi_IN directory
+
+Version 2.1
+Mon Mar 20 09:34:58 2017
+=============
+* Remove separate .dic files
+* Add more word lists to hi_IN.txt file
+* Change aff file flags from NUM to UTF-8 in order to use aspell
+* Create matching aspell hi_affix.dat
+* Use aspell munch-list to create .dic file
+  aspell munch-list keep multi  -l hi < hi_IN.txt > hi_IN.dic
+
