@@ -1,13 +1,13 @@
-HINDI SPELLCHECKER FOR OPENOFFICE 
-Version SPELLCHECKERVERSION
-Last Update on SPELLCHECKERDATE
+हिन्दी स्पेल-चैकर
+SPELLCHECKERVERSION संस्करण 
+SPELLCHECKERDATE पर अंतिम अपडेट
 
-Authors: ShreeDevi Kumar <shreeshrii@hotmail.com>
+लेखिका: श्रीदेवी कुमार <shreeshrii@hotmail.com>
 
-This spellchecker for OpenOffice was based on Hindi Hunspell files by Shree Devi Kumar.
+यह वर्तनी-जांचक श्रीमती श्रीदेवी कुमार द्वारा HUNSPELL के लिए संकलित हिंदी फाइलों पर आधारित है। यह ओपन ऑफिस, लिब्रे ऑफिस, नोटपैड प्लस आदि में हिंदी वर्तनी की जांच कर सकता है.
 
-Project site: https://github.com/Shreeshrii/hindi-hunspell
-OpenOffice in Hindi:  http://hi.openoffice.org/
+परियोजना स्थल: https://github.com/sreeshrii/hindi-hunspell
+हिंदी में ओपन-ऑफिस: http://hi.openoffice.org/
 
-This spellchecker is released with  GPLv3 license
-Visit http://www.gnu.org/licenses/ for more information
+यह स्पेल-चेकर GPLv3 लाइसेंस के साथ जारी किया गया है।
+अधिक जानकारी के लिए http://www.gnu.org/licenses/ पर जाएं।
