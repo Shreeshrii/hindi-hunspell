@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<description xmlns="http://openoffice.org/extensions/description/2006" xmlns:d="http://openoffice.org/extensions/description/2006"  xmlns:xlink="http://www.w3.org/1999/xlink">
+    <registration>
+        <simple-license accept-by="admin" suppress-on-update="false" >
+            <license-text xlink:href="LICENSES-en.txt" lang="en" />
+            <license-text xlink:href="LICENCES-hi.txt" lang="hi" />
+        </simple-license>
+    </registration>
+    <version value="SPELLCHECKERVERSION" />
+    <identifier value="Sanskrit_spellchecker.from.shreeshrii.SPELLCHECKERDATE" />
+    <display-name>
+        <name lang="en">sa_IN Sanskrit Hunspell dictionary SPELLCHECKERVERSION</name>
+        <name lang="hi">संस्कृत वर्तनी जांचक SPELLCHECKERVERSION</name>
+        <name lang="sa">संस्कृत वर्तनी जांचक SPELLCHECKERVERSION</name>
+    </display-name>
+    <platform value="all" />
+    <dependencies>
+        <OpenOffice.org-minimal-version value="3.0" d:name="OpenOffice.org 3.0" />
+    </dependencies>
+</description>

@@ -8,12 +8,7 @@ MAXNGRAMSUGS	10
 MAXDIFF	5
 
 # convert internally for checking spelling
-ICONV 7
-ICONV ां ाँ
-ICONV ीं ीँ
-ICONV ों ोँ
-ICONV ौं ौँ
-ICONV ूं ूँ
+ICONV 2
 ICONV । .
 ICONV ॥ .
 
