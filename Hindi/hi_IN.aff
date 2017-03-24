@@ -12,12 +12,12 @@ ICONV 2
 ICONV । .
 ICONV ॥ .
 
+MAP	1
+MAP	लळ
+
+
 # offer replacement as suggestion
-REP	111
-REP	ध्द	द्ध
-REP	ग्य	ज्ञ
-REP	रि	ऋ
-REP	रु	ऋ
+REP	99
 REP	ि	ी
 REP	ी	ि
 REP	ु	ू
@@ -25,6 +25,10 @@ REP	ू	ु
 REP	ो	ौ
 REP	ौ	ो
 REP	ॉं	ाँ
+REP	ॅं	ँ
+REP	ाॅ	ॉ
+REP	अॉ	ऑ
+REP	अॅ	ॲ
 REP	ये$	ए
 REP	या$	आ
 REP	यी$	ई
@@ -48,9 +52,6 @@ REP	ड़	ड
 REP	ढ़	ढ
 REP	फ़	फ
 REP	य़	य
-REP	ऴ	ऴ
-REP	ऩ	ऩ
-REP	ऱ	ऱ
 REP	क़	क
 REP	ख़	ख
 REP	ग़	ग
@@ -68,10 +69,6 @@ REP	ड	ड़
 REP	ढ	ढ़
 REP	ज	ज़
 REP	फ	फ़
-REP	ॅं	ँ
-REP	ाॅ	ॉ
-REP	अॉ	ऑ
-REP	अॅ	ॲ
 REP	र्	र
 REP	र्‍	र्
 REP	श	ष
@@ -81,26 +78,18 @@ REP	ं	म्
 REP	ंम	म्म
 REP	ंम	न्म
 REP	ंन	न्न
-REP	न्क	ङ्क
-REP	न्ख	ङ्ख
-REP	न्ग	ङ्ग
-REP	न्घ	ङ्घ
-REP	न्च	ञ्च
-REP	न्छ	ञ्छ
-REP	न्ज	ञ्ज
-REP	न्झ	ञ्झ
+REP	न्क	ंक
+REP	न्ख	ंख
+REP	न्ग	ंग
+REP	न्घ	ंघ
+REP	न्च	ंच
+REP	न्छ	ंछ
+REP	न्ज	ंज
+REP	न्झ	ंझ
 REP	न्ट	ण्ट
 REP	न्ठ	ण्ठ
 REP	न्ड	ण्ड
 REP	न्ढ	ण्ढ
-REP	ंक	ङ्क
-REP	ंख	ङ्ख
-REP	ंग	ङ्ग
-REP	ंघ	ङ्घ
-REP	ंच	ञ्च
-REP	ंछ	ञ्छ
-REP	ंज	ञ्ज
-REP	ंझ	ञ्झ
 REP	ंट	ण्ट
 REP	ंठ	ण्ठ
 REP	ंड	ण्ड
@@ -125,9 +114,9 @@ REP	न्त	ंत
 REP	न्थ	ंथ
 REP	न्द	ंद
 REP	न्ध	ंध
-
-MAP	1
-MAP	लळ
+REP	ध्द	द्ध
+REP	ग्य	ज्ञ
+REP	रि	ऋ
 
 BREAK	4
 BREAK	_
@@ -249,7 +238,8 @@ SFX	6	रना	ुई	मरना
 SFX	6	रना	ुईं	मरना
 
 # hi-verb7.dic - verb forms for aa-kaaranta kriyaa-pada - 
-SFX	7	Y	23
+SFX	7	Y	24
+SFX	7	0	इयो	.
 SFX	7	0	वे	.
 SFX	7	0	ई	.
 SFX	7	0	कर	.
@@ -276,7 +266,8 @@ SFX	7	0	ओगी	.
 
 
 # verb forms for a-kaaranta kriyaa-pada 
-SFX	8	Y	26
+SFX	8	Y	27
+SFX	8	0	ियो	.
 SFX	8	0	ो	.
 SFX	8	0	ोगे	.
 SFX	8	0	ोगी	.
@@ -562,15 +553,10 @@ SFX	o	0	दयाल	.
 SFX	o	0	दीन	.
 SFX	o	0	विजय	.
 
-SFX	0	Y	8
-SFX	0	0	किशोरी	.
-SFX	0	0	कुमारी	.
-SFX	0	0	दासी	.
-SFX	0	0	कौर	.
-SFX	0	0	कान्ता	.
-SFX	0	0	देवी	.
-SFX	0	0	रानी	.
-SFX	0	0	बाला	.
+SFX	0	Y	3
+SFX	0	0	ी	.
+SFX	0	0	िनी	.
+SFX	0	0	ियों	.
 
 #PREFIXES
 PFX	a	Y	4
