@@ -85,7 +85,7 @@ SFX P णे लेल्या/Aacd णे
 SFX P णे लेल्यां/Abcd णे
 SFX P णे ल्या/Aacd णे
 
-SFX O Y 62
+SFX O Y 33
 SFX O णे ितो णे
 SFX O णे िते णे
 SFX O णे ितोस णे
@@ -114,95 +114,82 @@ SFX O णे िलेस णे
 SFX O णे िल्यात णे
 SFX O णे िल्यास णे
 SFX O णे िलो णे
-SFX O णे ू णे
-SFX O णे ाल णे
-SFX O णे ेल णे
-SFX O णे ीन णे
-SFX O णे ेन णे
-SFX O णे ील णे
-SFX O णे ा णे
-SFX O णे ो णे
-SFX O णे ोत णे
-SFX O णे ावा णे
-SFX O णे ावात णे
-SFX O णे ावी णे
-SFX O णे ावीत णे
-SFX O णे ावे णे
-SFX O णे ावेत णे
-SFX O णे ाव्या णे
-SFX O णे ाव्यात णे
-SFX O णे ावास णे
-SFX O णे ावीस णे
-SFX O णे ावेस णे
-SFX O णे ाव्यास णे
-SFX O णे ून णे
 SFX O णे िशील णे
 SFX O णे िणार णे
 SFX O णे िणारा णे
 SFX O णे िणारी णे
 SFX O णे िणारे णे
-SFX O णे िणाऱ्या/Aacd णे
-SFX O णे िणाऱ्यां/Abcd णे
-SFX O णे िण्या/Aacd णे
-SFX O णे िण्यां/Abcd णे
-SFX O णे िलेल्या/Aacd णे
-SFX O णे िलेल्यां/Abcd णे
-SFX O णे िल्या/Aacd णे
 
-SFX A Y 65
-SFX A 0 अंती .
-SFX A 0 आतून/c .
-SFX A 0 आधी/c .
-SFX A 0 ऐवजी/c .
-SFX A 0 कडून/c .
-SFX A 0 कडे/c .
+SFX A Y 82
+SFX A 0 नुसार .
+SFX A 0 तला .
+SFX A 0 तली .
+SFX A 0 तले .
+SFX A 0 तल्या .
+SFX A 0 तील .
+SFX A 0 तून .
+SFX A 0 ऐवजी .
 SFX A 0 कड/Fc .
-SFX A 0 करिता/c .
-SFX A 0 करून/c .
+SFX A 0 कडील .
+SFX A 0 कडून/c .
+SFX A 0 कडे .
+SFX A 0 करिता .
+SFX A 0 करता .
 SFX A 0 खाली .
 SFX A 0 खाल/Fc .
-SFX A 0 खालून/c .
-SFX A 0 खेरीज/c .
+SFX A 0 खालून .
+SFX A 0 खेरीज .
 SFX A 0 चं .
 SFX A 0 च .
 SFX A 0 ही .
 SFX A 0 जवळ/c .
-SFX A 0 नजीक/c .
+SFX A 0 वर/c .
+SFX A 0 तर्फे .
+SFX A 0 तही .
+SFX A 0 तील .
+SFX A 0 तून .
+SFX A 0 देखील .
+SFX A 0 द्वारा .
+SFX A 0 द्वारे .
 SFX A 0 नंतर/c .
 SFX A 0 पर्यंत/c .
-SFX A 0 पाशी/c .
+SFX A 0 पाशी .
 SFX A 0 पासून/c .
 SFX A 0 पुढून/c .
-SFX A 0 पुढे/c .
+SFX A 0 पुढे .
 SFX A 0 पुढ/Fc .
 SFX A 0 पूर्वी/c .
 SFX A 0 पेक्षा .
-SFX A 0 पैकी/c .
-SFX A 0 पोटी/c .
+SFX A 0 पैकी .
+SFX A 0 पोटी .
 SFX A 0 प्रत .
 SFX A 0 प्रती .
-SFX A 0 प्रमाणे/c .
-SFX A 0 बदली/c .
-SFX A 0 बद्दल/c .
+SFX A 0 प्रमाणे .
+SFX A 0 बद्दल .
 SFX A 0 बरोबर/c .
-SFX A 0 भोवती/c .
-SFX A 0 मधून/c .
+SFX A 0 बरोबरच .
+SFX A 0 बाबत/c .
+SFX A 0 भोवती .
+SFX A 0 मधून .
+SFX A 0 मधले .
+SFX A 0 मधल्या .
+SFX A 0 मधील .
 SFX A 0 मध्ये .
-SFX A 0 मागून/c .
+SFX A 0 मागून .
 SFX A 0 मागे .
 SFX A 0 माग/Fc .
 SFX A 0 मुळे .
 SFX A 0 योग्य .
 SFX A 0 वतीने .
 SFX A 0 वर/c .
-SFX A 0 वरून/c .
-SFX A 0 वाचून/c .
+SFX A 0 वरील .
+SFX A 0 वरून .
 SFX A 0 विना .
 SFX A 0 विरुद्ध/c .
 SFX A 0 विषयी/c .
 SFX A 0 व्यतिरिक्त .
-SFX A 0 शिवाय/c .
-SFX A 0 सकट/c .
+SFX A 0 शिवाय .
+SFX A 0 सकट .
 SFX A 0 संबंधी/c .
 SFX A 0 समवेत .
 SFX A 0 समान .
@@ -215,27 +202,27 @@ SFX A 0 सारखी .
 SFX A 0 सारखे .
 SFX A 0 सारखं .
 SFX A 0 सारख्या .
-
+SFX A 0 सोबत .
 
 SFX Z Y 2
 SFX Z 0 च .
 SFX Z 0 ही .
 
-SFX c Y 6
-SFX c 0 ला .
-SFX c 0 शी .
+SFX c Y 4
 SFX c 0 चा .
 SFX c 0 ची .
 SFX c 0 चे .
 SFX c 0 च्या .
 
-SFX d Y 3
+SFX d Y 4
 SFX d 0 स .
 SFX d 0 त .
 SFX d 0 हून .
+SFX c 0 शी .
 
-SFX a Y 1
+SFX a Y 2
 SFX a 0 ने .
+SFX c 0 ला .
 
 SFX b Y 3
 SFX b 0 ना .
@@ -275,7 +262,6 @@ SFX f Y 2
 SFX f 0  ा/AFacd .
 SFX f 0  ां/AFbcd .
 
-
 SFX g Y 2
 SFX g 0  ी/AFacd .
 SFX g 0  ीं/AFbcd .
@@ -285,3 +271,19 @@ SFX h 0  ं/AFbcd .
 
 SFX i Y 1
 SFX i 0  े/AFacd .
+
+SFX j Y 2
+SFX j ा  े/AFacd ा
+SFX j ा  ां/AFbcd ा
+
+SFX k Y 1
+SFX k 0  ा/AFacd .
+
+SFX l Y 1
+SFX l 0  ी/AFacd .
+
+SFX m Y 1
+SFX m ा  ्या/Aacd ा
+
+SFX n Y 1
+SFX n ा  े/AFacd ा
